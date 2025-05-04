@@ -1,6 +1,6 @@
-# Calculator
+# COOLCULATOR
 
-This is a project that resembles a calculator.
+This is a project that resembles a COOLCULATOR.
 
 ## Installation
 
