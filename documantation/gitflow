@@ -1,0 +1,14 @@
+"""
+So at the begining, I have to download git. If its ok, i can check it with this comand : git --version
+Than I have to locate, where i wanted to have all my local files. : cd/path/to/my/project
+So I set the path and now I have to make git project folder: git init
+And if its right i cant check it with : ls-a (at the int, there should be .git)
+Than I have to stage all my files: git add .
+If i wanted to push my code, than i have to commit them: git commit -m
+This should be everything
+
+There is also a few usefull commands i can use:
+git clone -> i will steel repository to my local 
+git branch "branch name" -> this is how to make new branch
+git checkout "branch name" -> switch to the new branch
+"""
